@@ -10,3 +10,6 @@ These are installed using **pip**.
 - pip install yahoo_fin
 - pip install streamlit
 - pip install pandas
+
+# Examples
+![Imgur](https://imgur.com/AKdPsgs.png)
